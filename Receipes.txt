@@ -5,6 +5,9 @@ Welcome to Kitchen
 Chicken
 Mutton
 Chicken 65
+Beans
+Pizza
+
 
 
 Thank you!!!
